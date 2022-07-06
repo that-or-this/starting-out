@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
 
-![screenshot](https://user-images.githubusercontent.com/1305617/45956448-87fec380-bfe0-11e8-8b8c-1bbbee7552c6.png)
+![screenshot](screenshot4.png)
 
 A so very simple personal site.
 
@@ -43,7 +43,7 @@ There are basic styles included in `style.css` but go wild and make it your own,
 
 ### Bonus Style
 
-![2](screenshot2.png)
+
 
 There is another style option included within this repository. If you change the CSS file specified on **line 7** in `index.html` to:
 
